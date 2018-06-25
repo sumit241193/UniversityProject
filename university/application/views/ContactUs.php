@@ -34,7 +34,7 @@ page-title -->
               <div class="text-center">
                <i class="ti-mobile text-white"></i>
                <h4 class="text-white mt-15">Call Us</h4>
-               <p class="text-white">+(91)91111-29996</p>
+               <p class="text-white">+(91)70000-25358</p>
 				<p class="text-white">+(91)82697-40250</p>
                
               </div>
